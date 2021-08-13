@@ -79,7 +79,6 @@
     padding-top: 10px;
     word-spacing: 50px;
     font-size: 40px;
-    margin-left: 450px;
 }
 
 .iconFormat{
@@ -87,4 +86,27 @@
     font-size: 40px;
     font-weight: normal;
     color: inherit;
+}
+
+.setImage{
+    height: 500px;
+    width: 80%;
+    padding: 20px;
+}
+
+.imgCenter{
+    text-align: center;
+}
+
+.setText{
+    font-size: 35px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 150px;
+}
+
+.setList{
+    font-size: 35px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    list-style-position: inside;
+    margin-left: 130px;
 }
