@@ -1,0 +1,90 @@
+.navBar{
+    position: fixed;
+    width: 100%;
+    color: blue;
+}
+
+.setAbout{
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: justify;
+}
+
+.title{
+    font-size: 50px;
+    font-family: algerian;
+    text-align: center;
+}
+
+.setPadding{
+    padding: 20px;
+}
+
+.setBarTitle{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+.inBar{
+    padding-top: 15px;
+}
+
+.barText1{
+    margin-left: 550;
+}
+
+.barText1{
+    margin-left: 350;
+}
+
+.barText1{
+    margin-left: 550;
+}
+
+.barColor{
+    background-color: grey;
+}
+
+.setIcon{
+    font-size: 50px;
+    text-align: center;
+    font-weight: normal;
+    text-decoration: none;
+    color: grey;
+}
+
+.setCardMargin{
+    margin-left: 130px;
+}
+
+.setCardTextFont{
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.setCardTitle{
+    text-align: center;
+}
+
+.setPosition{
+    position: static;
+}
+
+.setNavIcons{
+    width: 200px;
+}
+
+.setSpace{
+    padding-top: 10px;
+    word-spacing: 50px;
+    font-size: 40px;
+    margin-left: 450px;
+}
+
+.iconFormat{
+    text-decoration: none;
+    font-size: 40px;
+    font-weight: normal;
+    color: inherit;
+}
